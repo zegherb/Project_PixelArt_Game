@@ -18,11 +18,11 @@ Tapi justru di situ serunya: semua progress dan eksperimen aku catat di repo ini
 
 ## ⚡ Fitur yang Lagi Digarap
 
-- 🎭 Grafik pixel art custom (gambar sendiri!)
-- 🧩 Level demi level (masih bikin desainnya)
-- 🕹️ Mekanik permainan dasar (biar mainnya asik)
-- 🔊 Efek suara & musik (kalau mood lagi bagus)
-- 🏆 Skor & leaderboard (biar ada motivasi)
+- 🎭 Grafik pixel art 
+- 🧩 Level demi level 
+- 🕹️ Mekanik permainan dasar 
+- 🔊 Efek suara & musik 
+- 🏆 Skor & leaderboard 
 
 ---
 

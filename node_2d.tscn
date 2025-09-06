@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://eepop7d5cchk"]
+
+[ext_resource type="PackedScene" uid="uid://na7oqf5qlh23" path="res://animated_sprite_2d.tscn" id="1_wtcfe"]
+
+[node name="Node2D" type="Node2D"]
+position = Vector2(1, 0)
+
+[node name="AnimatedSprite2D" parent="." instance=ExtResource("1_wtcfe")]
+position = Vector2(318, 161)
